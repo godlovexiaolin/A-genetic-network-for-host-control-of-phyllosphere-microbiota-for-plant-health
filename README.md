@@ -8,9 +8,6 @@ Xiaolin Wang
 
 E-mail: 250763563@qq.com / xlwang@cemps.ac.cn
 
-ResearchGate:
-
-https://www.researchgate.net/profile/Wang_Xiaolin5
 
 
 Article
