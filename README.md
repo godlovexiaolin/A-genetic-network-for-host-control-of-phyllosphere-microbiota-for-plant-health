@@ -1,14 +1,4 @@
-Hi,
-
 This is the R markdown in the microbiota analyses for the following article.
-
-Best wishes,
-
-Xiaolin Wang
-
-E-mail: 250763563@qq.com / xlwang@cemps.ac.cn
-
-
 
 Article
 
